@@ -1,2 +1,2 @@
 # Huffman-Tree-and-Optimal-Huffman-Tree
-The projects purpose is to build a data compression method. We want to convey the same information but with smaller amount of space, given the data provided huffman tree is a way to compress a text that is stored in bits, 
+The projects purpose is to build a data compression method. We want to convey the same information but with smaller amount of space, given the data provided huffman tree is a way to compress a text that is stored in bits, each of the character is stored in a 8 bits character, so if our text contains 8 bits then the storing capacity would take 64 bits. But, by using huffman tree we can store the bits by reducing the size of the bits.
